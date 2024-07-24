@@ -3,9 +3,9 @@ The B-cell lineage tree delineates sequential stages of B-cell differentiation a
 ## About This repository
 This repository comprised of four parts
 
--Data Set:
+-Data Set: All the data used in this project (simulated and real data set) in two separate files.
 
--img
+-img: The images used in this project for clarification of GBLD metric.
 
--scr: 
+-scr: Used code to evaluate the final GBLD score.
 
