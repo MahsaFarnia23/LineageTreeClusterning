@@ -107,6 +107,4 @@ This will:
   >seq4@76
   ```
 
-### 📧 Contact:
-- **Mahsa Farnia**: [Mahsa.Farnia@USherbrooke.ca](mailto:Mahsa.Farnia@USherbrooke.ca)
-- GitHub: [@MahsaFarnia](https://github.com/MahsaFarnia)
+
