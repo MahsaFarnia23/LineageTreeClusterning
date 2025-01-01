@@ -1,5 +1,4 @@
 ## 👨‍💻 Authors: Mahsa Farnia, Tahiris Lab  
-## 📅 Date: 2024
 
 # Bioinformatics Tools Overview
 
