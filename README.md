@@ -22,7 +22,7 @@ However, the accurate classification and comparison of these trees require a rel
 ---
 
 ## 🎯 **Objective**  
-The goal of **ClonalTreeClustering** is to address the complex challenge of comparing and clustering multiple B cell lineage trees. By introducing a data-driven approach, this methodology enhances our ability to study:  
+The goal of **LineageTreeClustering** is to address the complex challenge of comparing and clustering multiple B cell lineage trees. By introducing a data-driven approach, this methodology enhances our ability to study:  
 - The evolution of B cell lineages.  
 - Immune system responses in various diseases.  
 - The impact of therapeutic interventions on clonal diversity and expansion.  
