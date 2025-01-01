@@ -1,3 +1,6 @@
+## 👨‍💻 Authors: Mahsa Farnia, Tahiris Lab  
+## 📅 Date: 2024
+
 # Bioinformatics Tools Overview
 
 ![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-green) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-brightgreen)
