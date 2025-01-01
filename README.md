@@ -1,11 +1,36 @@
-# New generalized metric to compare B-cell lineage trees
-The B-cell lineage tree delineates sequential stages of B-cell differentiation and maturation, evolving from hematopoietic stem cells into fully functional antibody-producing cells within the immune system. The B-cell lineage tree can be modeled by a type of evolutionary tree. However, it is impossible to compare this lineage tree without a robust metric. This comparison of B-cell lineage trees offers the opportunity to examine variations in a lineage of patient over time in a clinical context, and to compare lineages from different patients suffering from the same disease. Thus, the problem of comparing multiple B-cell lineage trees becomes relevant. In this paper, we present a new efficient cutting-edge metric for comparing B-cell lineage trees with a mathematical foundation. The efficiency of the new metric was assessed using both synthetic and real data.
-## About This repository
-This repository comprised of four parts
+# 🌳 **ClonalTreeClustering**  
 
--Data Set: All the data used in this project (simulated and real data set) in two separate files.
+## Overview  
+**ClonalTreeClustering** is an integral component of a project aimed at clustering B cell lineage trees to advance our understanding of immune system dynamics and their role in health and disease.  
 
--img: The images used in this project for clarification of GBLD metric.
+B cell lineage trees visually depict the stages of B cell differentiation and maturation, tracing the journey from hematopoietic stem cells to fully functional antibody-producing cells. These trees serve as vital tools for studying the immune response, highlighting changes in B cell populations over time or across clinical conditions.  
 
--scr: Used code to evaluate the final GBLD score.
+However, the accurate classification and comparison of these trees require a reliable metric similar to those used for evolutionary trees. **ClonalTreeClustering** introduces a robust framework for comparing lineage trees, leveraging critical features to analyze and cluster them systematically.  
 
+---
+
+## 🔑 **Key Features**  
+- **Systematic Tree Comparison**:  
+  Enables a detailed comparison of B cell lineage trees using quantitative metrics.  
+- **Dynamic Tracking**:  
+  Investigates lineage changes over time, providing insights into immune response dynamics.  
+- **Clinical Applications**:  
+  Facilitates the comparison of B cell behavior in disease and treatment contexts.  
+- **Data and Code**:  
+  The repository includes both source code and test data, making it easy to run experiments and validate results.  
+
+---
+
+## 🎯 **Objective**  
+The goal of **ClonalTreeClustering** is to address the complex challenge of comparing and clustering multiple B cell lineage trees. By introducing a data-driven approach, this methodology enhances our ability to study:  
+- The evolution of B cell lineages.  
+- Immune system responses in various diseases.  
+- The impact of therapeutic interventions on clonal diversity and expansion.  
+
+---
+
+## 🚀 **What’s Included?**  
+- **Source Code**: Comprehensive implementation of the clustering methodology.  
+- **Test Data**: Example datasets for validation and experimentation.  
+
+Explore the repository to gain deeper insights into the role of B cell lineage trees in immunological research. Let us know if you'd like further guidance on integrating this framework into your studies or projects.  
