@@ -1,5 +1,3 @@
-# 🧬 FASTA to Newick Converter and Cleaner
-
 ## 👨‍💻 Authors: Mahsa Farnia, Tahiris Lab  
 ## 📅 Date: 2024
 
