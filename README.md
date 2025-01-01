@@ -1,4 +1,4 @@
-# 🌳 **ClonalTreeClustering**  
+# 🌳 **lineageTreeClustering**  
 
 ## Overview  
 **ClonalTreeClustering** is an integral component of a project aimed at clustering B cell lineage trees to advance our understanding of immune system dynamics and their role in health and disease.  
