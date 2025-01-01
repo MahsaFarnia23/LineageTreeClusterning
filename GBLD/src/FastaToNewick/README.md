@@ -1,3 +1,5 @@
+# 🧬 FASTA to Newick Converter and Cleaner
+
 ### 📚 Description:
 This script is designed to automate the process of converting a FASTA file to a Newick format tree, cleaning the Newick file, and integrating sequence counts into the Newick tree. It leverages the MUSCLE alignment tool for sequence alignment and constructs phylogenetic trees using the Neighbor-Joining (NJ) method.
 
