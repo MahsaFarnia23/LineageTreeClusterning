@@ -158,5 +158,7 @@ Contributions, issues, and feature requests are welcome! Feel free to submit a p
 This tool was developed to support bioinformatics research in lineage tree analysis and comparison. Special thanks to the Biopython community for providing powerful libraries for sequence analysis.
 
 
-
+### 📧 Contact:
+- **Mahsa Farnia**: [Mahsa.Farnia@USherbrooke.ca](mailto:Mahsa.Farnia@USherbrooke.ca)
+- GitHub: [@MahsaFarnia](https://github.com/MahsaFarnia)
 
