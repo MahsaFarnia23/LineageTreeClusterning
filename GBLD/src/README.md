@@ -131,3 +131,10 @@ Download and install MUSCLE from [here](https://www.drive5.com/muscle/). 💻
 ## Contribution
 
 Contributions, issues, and feature requests are welcome! Feel free to submit a pull request or raise an issue in the repository. 🤝
+
+
+### 📧 Contact:
+- **Mahsa Farnia**: [Mahsa.Farnia@USherbrooke.ca](mailto:Mahsa.Farnia@USherbrooke.ca)
+- GitHub: [@MahsaFarnia](https://github.com/MahsaFarnia)
+
+
