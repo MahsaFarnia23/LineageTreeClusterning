@@ -5,8 +5,6 @@
 This repository contains the code for clustering human immune system lineage trees based on their similarities using the **Generalized Branch Length Distance (GBLD)** metric. The primary goal of this project is to evaluate the lineage trees of the human immune system and group them using **DBSCAN clustering**, leveraging a set of indices based on tree properties.
 
 🌿 **Bioinformatics Project**  
-🔒 **MIT License**  
-🔧 **Version 1.0.0**
 
 ## Overview
 
