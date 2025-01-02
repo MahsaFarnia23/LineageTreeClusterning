@@ -1,3 +1,5 @@
+## 👨‍💻 Authors: Mahsa Farnia, Tahiris Lab  
+
 # Immune System Lineage Tree Clustering using GBLD Metric
 
 This repository contains the code for clustering human immune system lineage trees based on their similarities using the **Generalized Branch Length Distance (GBLD)** metric. The primary goal of this project is to evaluate the lineage trees of the human immune system and group them using **DBSCAN clustering**, leveraging a set of indices based on tree properties.
@@ -46,3 +48,8 @@ If you use this project or the methodology in your research, please cite our pap
 ## Contributions
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository, create an issue, or submit a pull request. 🤝
+
+### 📧 Contact:
+- **Mahsa Farnia**: [Mahsa.Farnia@USherbrooke.ca](mailto:Mahsa.Farnia@USherbrooke.ca)
+- GitHub: [@MahsaFarnia](https://github.com/MahsaFarnia)
+
