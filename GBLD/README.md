@@ -41,18 +41,6 @@ If you use this project or the methodology in your research, please cite our pap
 
 > [GBLD Metric for Lineage Tree Clustering](https://link.springer.com/content/pdf/10.1186/s13015-024-00267-1.pdf) 📝
 
-
-## Usage
-
-To run the clustering on your lineage tree data, follow these steps:
-
-1. **Prepare Input**: Ensure your lineage tree data is in **FASTA format**. 📄
-2. **Run the Analysis**:
-
-```bash
-python cluster_lineage_trees.py --input /path/to/data.fasta --output /path/to/output
-```
-
 3. **View Results**: The clustered trees will be saved in the output directory, along with evaluation metrics. 🗂️
 
 ## Contributions
