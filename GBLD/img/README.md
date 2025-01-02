@@ -4,7 +4,7 @@ This folder contains images related to the **GBLD** project. There are **4 image
 
 ### Files Included:
 
-1. **image1.svg** – 📊 [Description ]
+1. **image1.svg** – 📊 [Visual representation of a B cell lineage tree ]
 2. **image2.svg** – 🔬 [Description ]
 3. **image3.svg** – 🌱 [Description ]
 4. **image4.svg** – 🧬 [Description ]
