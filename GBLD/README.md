@@ -41,15 +41,6 @@ If you use this project or the methodology in your research, please cite our pap
 
 > [GBLD Metric for Lineage Tree Clustering](https://link.springer.com/content/pdf/10.1186/s13015-024-00267-1.pdf) 📝
 
-## Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/yourusername/immune-lineage-clustering.git
-cd immune-lineage-clustering
-pip install -r requirements.txt
-```
 
 ## Usage
 
