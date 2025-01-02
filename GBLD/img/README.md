@@ -1,6 +1,6 @@
 # Images of the Project 🌄
 
-This folder contains images related to the **GBLD** project. There are **4 images** in **SVG format** used in the project. 🖼️
+This folder contains images related to the **GBLD** project. There are **4 images** in **SVG format** used in the project. 
 
 ### Files Included:
 
@@ -9,5 +9,5 @@ This folder contains images related to the **GBLD** project. There are **4 image
 3. **image3.svg** – 🌱 [Description ]
 4. **image4.svg** – 🧬 [Description ]
 
-These images are used to visualize various aspects of the **Generalized Branch Length Distance (GBLD)** metric and its application to immune system lineage tree clustering. 🌳
+These images are used to visualize various aspects of the **Generalized Branch Length Distance (GBLD)** metric and its application to immune system lineage tree clustering.
 
