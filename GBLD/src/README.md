@@ -1,5 +1,3 @@
-## 👨‍💻 Authors: Mahsa Farnia, Tahiris Lab  
-
 # Bioinformatics Tools Overview
 
 ![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-green) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-brightgreen)
@@ -127,14 +125,5 @@ Download and install MUSCLE from [here](https://www.drive5.com/muscle/). 💻
 ```
 
 ---
-
-## Contribution
-
-Contributions, issues, and feature requests are welcome! Feel free to submit a pull request or raise an issue in the repository. 🤝
-
-
-### 📧 Contact:
-- **Mahsa Farnia**: [Mahsa.Farnia@USherbrooke.ca](mailto:Mahsa.Farnia@USherbrooke.ca)
-- GitHub: [@MahsaFarnia](https://github.com/MahsaFarnia)
 
 
