@@ -144,11 +144,5 @@ The GBLD score is the sum of the three metrics:
 ---
 
 
-## 🤝 Contributing  
-
-Contributions, issues, and feature requests are welcome! Feel free to submit a pull request or raise an issue in the repository.  
-
----
-
 ## 💡 Acknowledgements  
 This tool was developed to support bioinformatics research in lineage tree analysis and comparison. Special thanks to the Biopython community for providing powerful libraries for sequence analysis.
