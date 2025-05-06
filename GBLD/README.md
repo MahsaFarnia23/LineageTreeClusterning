@@ -50,5 +50,5 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 ### 📧 Contact:
 - **Mahsa Farnia**: [Mahsa.Farnia@USherbrooke.ca](mailto:Mahsa.Farnia@USherbrooke.ca)
 - **Nadia Tahiri**: [Nadia.Tahiri@USherbrooke.ca](mailto:Nadia.Tahiri@USherbrooke.ca)
-- GitHub: [@MahsaFarnia](https://github.com/MahsaFarnia)
+
 
